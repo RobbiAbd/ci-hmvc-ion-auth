@@ -1,1 +1,1 @@
-# ci-hmvc-example
+# Codeigniter + HMVC Module + Ion Auth
